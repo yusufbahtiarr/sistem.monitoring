@@ -1,0 +1,19 @@
+[DONE]
+UPDATE CIVIL 
+- histori tidak berfungsi
+- kolom update tambah 0 supaya bisa di save walau cuman 1 item yg diinput progresnya.
+- tulisan Notice: Undefined index: act in C:\xampp\htdocs\sistem_monitoring\update_civil_response.php on line 6 "DIHILANGKAN"
+
+[DONE]
+-- bro itu klu salah masukin update gmn hapusnya
+>> MAU SIAPA YG HAPUS? orng yg updatenya,
+n bro nama karyawan taro di paling pertama aja supaya rapih
+UPDATE ADMINISTRASI
+- kolom update tambah 0 supaya bisa di save walau cuman 1 item yg diinput progresnya.
+- histori tambah kolom segment
+
+LIHAT PROGRES CIVIL
+- persen salah (PROGRES/SOW*BOBOT)
+PERMIT
+- view & download tidak berfungsi
+

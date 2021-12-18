@@ -1,0 +1,67 @@
+bug
+
+PROYEK--
+[DONE]DETAIL PROYEK (masuk ke MENU ADMIN)
+[DONE]-hanya ada tombol HAPUS dibuatkan tombol EDIT/UPDATE untuk antisipasi kesalahan input data (bisa gak?) eh udah,..haha
+
+
+
+Beranda
+[KALAU SEMUA INPUT DAN UPDATE SUDAH BARU KE CHART]chart masih statis
+
+Menu Karyawan
+[done]Pindahkan ke menu admin karena didalamnya terdapat tambah,edit,hapus. 
+[BEDA MENU]untuk divisi lain selain admin, hanya bisa melihat tidak ada menu tambah,edit,hapus.
+[DONE]tombol cari --> tidak bisa mensearch berdasarkan jabatan
+[DONE]tombol view belum berfungsi (clear) hehe
+[DONE]dimenu edit save belum berfungsi
+[DONE]tombol tambah data jika NIK sama dengan yg sudah ada,... data langsung tidak tersimpan-->harus diberi warning "NIK tidak boleh sama"
+
+--itu kekurangnnya bro
+>>oke gw perbaikin bugs nya dulu?
+--lanjut ke yg menu dulu aja dh,..
+>>oke, kayak gitu yak menu nya?
+--iya bro,....
+>>sok
+-1-menu proyek  untuk melihat progres setiap proyek
+-2-menu karyawan --hanya bisa melihat data karyawan
+-3-menu update --untuk mengupdate progres pekerjaan sesuai divisi masing2
+-4-menu admin --data karyawan (bisa tambah edit hapus (sdh dibuat) --data proyek (tambah proyek(sdh dibuat)
+
+>>kerjain -1- dulu yak
+--ok bro
+>>eh jgn -3- ini dulu, yg bisa update itu org yg uda dikasih otoritas yaa?
+-- iya yg udah dikasih otoritas civil, oh iya bro tambah user yg cuman bisa lihat progres aja bro,..jd cmn muncul menu proyek dan karyawan(khusus buat bos),...
+>>bro..
+--knp
+>>pilih operatornya trus keluar proyeknya gitu?
+-- engga bro, soalnya biasanya satu operator ada beberapa proyek
+
+>>pas klik menu update mau ga keluarnya kayak gitu? jadi user cuma bisa klik yg Yes aja, klo diklik yes nya bakalan nampil yg di sebelah kiri
+--oh gt,... tdnya gini bro jadi klu kita pilih operator maka list proyek yg akan tampil berdasarkan operator yg dipilih,...
+--dan untuk progres itu adalah sum dari tanggal awal progres sampei akhir,..2
+
+oke oke sory gw potong gw ngerti itu
+o>h gitu boleh tuh, tp klu yg arsip berarti gk muncul ya dilist tabel itu
+>>oke oke, mempercepat gw ngodingnya jg, tp rapih jadinya klo kayak gitu
+--sip dah lanjut
+
+>>setelah segment nya dipilih, table di bawah berubah juga?
+--iya bro,..kn updatenya persegment,..klu ada cara yg lebih praktis silahkan bro
+>>paling stlh milih segment, klik tombol dulu gmn bro?
+--boleh
+>>sip sip, msh di sana?
+itu update + progress apa update nimpa progress?
+--tandinya pengen bisa liat update perhari,... jd klu yg update itu update+total progres,...cmn ane bingun yg perhari itu gmn nampilinnya, jd supaya bisa ke track perharinya.
+>>bikin history harus nya klo gitu
+--oh gitu boleh dh
+>>berarti itu update per hari yaa?
+-- iya bro,...dan tanggal yg tampil di -- udh otomatis hari dimana ia login, tgl skrg mksdny?iya bro si,...p tp progres yg tampil ditabel data terakhir updatan
+>>bentar toilet dulu
+--ok
+
+>>sow (M) itu apa? yg dimana bro?
+-- sow itu adlh paptokan panjang pekerjaan bro
+>>sow yg di sini diinput nya pas dimana?
+--pas waktu bikin proyek
+>>oke ngerti.. tq

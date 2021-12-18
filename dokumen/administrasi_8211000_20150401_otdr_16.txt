@@ -1,0 +1,41 @@
+//jika tombol tambah benar di klik maka lanjut prosesnya
+	$id		= $_POST['id'];	//membuat variabel $id dan datanya dari inputan hidden id
+	$nis		= $_POST['nis'];	//membuat variabel $nis dan datanya dari inputan NIS
+	$nama		= $_POST['nama'];	//membuat variabel $nama dan datanya dari inputan Nama Lengkap
+	$kelas		= $_POST['kelas'];	//membuat variabel $kelas dan datanya dari inputan dropdown Kelas
+	$jurusan	= $_POST['jurusan'];	//membuat variabel $jurusan dan datanya dari inputan dropdown Jurusan
+	$jurusan	= $_POST['test'];	//membuat variabel $jurusan dan datanya dari inputan dropdown Jurusan
+w pengen masukin inputan dari jurusan ke dua tabel gmn ya,..gagal mulu,..hehe
+--eksekusi 1 table dulu, baru table 1 nya lagi, gk bisa langsung gnin'
+>>kalo begitu jadinya 	$jurusan	= $_POST['jurusan']; ketimpa sm	$jurusan	= $_POST['test'];
+--oh gt gk bisa dalam 1 action ke 2 kolom ya
+>>emg kolom di table nya apa aja yg dimasukin?
+
+tabelnya sama,..kolomnya ada 
+
+>>
+$jurusan	= $_POST['jurusan'];	//membuat variabel $jurusan dan datanya dari inputan dropdown Jurusan
+$test	= $_POST['jurusan'];	//membuat variabel $jurusan dan datanya dari inputan dropdown Jurusan
+gitu yg bener..
+-- tp di inputannya cmn ada id, nis, nama,kelas, jurusan,...klu test gk ada gt,...
+
+
+
+>>> field nya apa??
+iya fildnya
+id, nis, nama,kelas, jurusan,
+jd test itu ibarat backupan colom jurusan
+>>ditaro di table yg sama
+trus field nya apa utk nyimpen backup itu? cuman ngetest aja jd klu pas w kli simpan,..fild yg jurusan --> di post ke 2 kolom gt, gk bs ya
+
+>>kagA> bisa lah
+haha,..yawes dh,..w kira bisa,..lanjutl
+
+
+
+
+>> skrg gw cm punya waktu sampe jam 2, mending gw kelarin dulu deh, klo engga project lu dipegang sm sendy.
+-- jiah ko bs gt ya
+>>panjang ceritanya..
+-- hemm gra2 kmrn kli ya,..yawes bro lanjut dlu aja dh
+sip sip
